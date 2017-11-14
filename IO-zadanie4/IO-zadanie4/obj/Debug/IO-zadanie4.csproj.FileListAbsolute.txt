@@ -1,0 +1,8 @@
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie4\IO-zadanie4\bin\Debug\IO-zadanie4.exe.config
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie4\IO-zadanie4\bin\Debug\IO-zadanie4.exe
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie4\IO-zadanie4\bin\Debug\IO-zadanie4.pdb
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie4\IO-zadanie4\obj\Debug\IO-zadanie4.exe
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie4\IO-zadanie4\obj\Debug\IO-zadanie4.pdb
+C:\Users\Michał\Documents\Visual Studio 2015\Projects\IO\IO-zadanie4\IO-zadanie4\bin\Debug\IO-zadanie4.exe.config
+C:\Users\Michał\Documents\Visual Studio 2015\Projects\IO\IO-zadanie4\IO-zadanie4\obj\Debug\IO-zadanie4.exe
+C:\Users\Michał\Documents\Visual Studio 2015\Projects\IO\IO-zadanie4\IO-zadanie4\obj\Debug\IO-zadanie4.pdb

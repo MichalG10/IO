@@ -1,0 +1,5 @@
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\bin\Debug\IO-zadanie3.exe.config
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\bin\Debug\IO-zadanie3.exe
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\bin\Debug\IO-zadanie3.pdb
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\obj\Debug\IO-zadanie3.exe
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\obj\Debug\IO-zadanie3.pdb
