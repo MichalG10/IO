@@ -3,3 +3,6 @@ c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\b
 c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\bin\Debug\IO-zadanie3.pdb
 c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\obj\Debug\IO-zadanie3.exe
 c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie3\IO-zadanie3\obj\Debug\IO-zadanie3.pdb
+C:\Users\Michał\Documents\Visual Studio 2015\Projects\IO\IO-zadanie3\IO-zadanie3\bin\Debug\IO-zadanie3.exe.config
+C:\Users\Michał\Documents\Visual Studio 2015\Projects\IO\IO-zadanie3\IO-zadanie3\obj\Debug\IO-zadanie3.exe
+C:\Users\Michał\Documents\Visual Studio 2015\Projects\IO\IO-zadanie3\IO-zadanie3\obj\Debug\IO-zadanie3.pdb

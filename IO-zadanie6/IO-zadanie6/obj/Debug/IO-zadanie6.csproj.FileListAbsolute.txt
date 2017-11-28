@@ -1,0 +1,6 @@
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie6\IO-zadanie6\bin\Debug\IO-zadanie6.exe.config
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie6\IO-zadanie6\bin\Debug\IO-zadanie6.exe
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie6\IO-zadanie6\bin\Debug\IO-zadanie6.pdb
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie6\IO-zadanie6\obj\Debug\IO-zadanie6.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie6\IO-zadanie6\obj\Debug\IO-zadanie6.exe
+c:\users\michał\documents\visual studio 2015\Projects\IO-zadanie6\IO-zadanie6\obj\Debug\IO-zadanie6.pdb
