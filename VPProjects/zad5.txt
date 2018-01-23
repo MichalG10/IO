@@ -1,0 +1,6 @@
+Poprawne nazwy przypadków u¿ycia:
+c.	Browse documents,
+d.	Search documents,
+e.	Customer suport,
+g.	Cancel appointment
+S¹ one wykonywanymi operacjami.
